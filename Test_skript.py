@@ -7,4 +7,9 @@ while True:
     print(f"Привет {username}! твое случайное число: {randigit}")
 
     if username == "пожалуйста хватит":
-        break 
+        print('ну раз просишь сучка вухахахах')
+        while True:
+            print('------')
+            print('-o===o-')
+            print('--OOO--')
+            print('-------')
